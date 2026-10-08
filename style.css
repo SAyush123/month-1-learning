@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    color: #2c3e50;
+    font-size: 2rem;
+}
+
+p {
+    color: #555;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+#special {
+    color: red;
+    font-weight: bold;
+}
